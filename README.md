@@ -4,12 +4,8 @@
 
 ## 🖼️ Demonstração do projeto
 
-Aqui está uma imagem do programa em execução:  
-*(Basta substituir o nome do arquivo abaixo pela sua imagem!)*  
+<img width="988" height="718" alt="image" src="https://github.com/user-attachments/assets/795d5f84-334a-404b-9215-1cc7f9a3e54a" />
 
-![Aplicação de Compras - Java](./img.projeto)
-
----
 
 ## 🛠️ Tecnologias e conceitos utilizados
 
