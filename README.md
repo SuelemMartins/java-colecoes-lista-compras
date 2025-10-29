@@ -7,7 +7,7 @@
 Aqui está uma imagem do programa em execução:  
 *(Basta substituir o nome do arquivo abaixo pela sua imagem!)*  
 
-![Aplicação de Compras - Java](coloque_o_nome_da_imagem_aqui.png)
+![Aplicação de Compras - Java](./img.projeto)
 
 ---
 
